@@ -1,0 +1,3 @@
+créer base 
+créer table
+insérer user
